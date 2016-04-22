@@ -1,4 +1,3 @@
-## hola-mundo
 ## Ejemplo Hola Mundo en React JS
 
 ## Iniciar la aplicación (local)
